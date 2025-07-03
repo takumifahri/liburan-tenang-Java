@@ -11,12 +11,7 @@ Project ini dibuat dengan tujuan **have fun** dan untuk mempelajari bahasa pemro
 
 ## Project Done
 - ✅ Kalkulator console-based dengan Java
-- ✅ Operasi dasar matematika (tambah, kurang, kali, bagi)
-- ✅ Input validation untuk mencegah error
-- ✅ Menu interaktif untuk user
-- ✅ Handling division by zero
-- ✅ Loop untuk operasi berulang
-- ✅ Clean code structure dengan method terpisah
+- ✅ Tebak Angka Secara Random Console Based dengan JAva
 
 ## Status
 🚧 Project dalam tahap pengembangan
