@@ -1,4 +1,4 @@
-package DicodingDasarJava;
+// package DicodingDasarJava;
 
 public class Main {
     byte contohByte = 100;
